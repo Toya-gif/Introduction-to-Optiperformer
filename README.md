@@ -37,6 +37,7 @@ The system is *instrumented* with:
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
 ---
 ## Result
+Thus it is done and verified.
 
 ---
 
